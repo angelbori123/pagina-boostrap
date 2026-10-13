@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+  <rect width="1200" height="300" fill="#0f766e"></rect>
+  <circle cx="1000" cy="80" r="90" fill="#fbbf24"></circle>
+  <text x="40" y="160" fill="#fff" font-family="Arial" font-size="42">Laboratorio Bootstrap</text>
+</svg>

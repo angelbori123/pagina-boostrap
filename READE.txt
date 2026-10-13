@@ -1,0 +1,6 @@
+Laboratorio 5.2. Angel E. Castillo Reyes. WADE 1000L-3663ONL. Prof. Pablo Pinna Carrillo.
+Pagina con HTML5 semantico, CSS propio y Bootstrap.
+Usa selectores de elemento (body), de clase (caja, caja-oscura) y de ID (titulo).
+Dos modelos de caja distintos (borde, relleno y fondo).
+Bootstrap aporta el menu, la rejilla responsiva, botones, alerta, barra de progreso y formulario.
+GitHub: https://github.com/angelbori123/pagina-bootstrap
